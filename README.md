@@ -24,7 +24,7 @@ const joan = {
                         coorganizer: "Fun Club Taller de Arte Gráfico",
                         mentor: "Taula periòdica Castellera"
                       },
- challenge: "I am studing at Factoría F5 Full Stack Development"
+ challenge: "I am studing at Factoría F5 Full Stack Development",
  funFact: "Coding is made of - 1% actually coding, 40% debugging,
  40% googling errors, 19% trying copy/paste solutions from Stack Overflow"
 }
