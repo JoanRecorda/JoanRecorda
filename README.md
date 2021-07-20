@@ -1,6 +1,6 @@
 # Joan Recordà Pellicer / README.md
 
-<h2>I'm Joan Recordà Pellicer <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"></h2>
+<h2>I'm Joan Recordà Pellicer
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
 <p><em>Studing Full Stack Developer at <a href="http://www.factoriaf5.org/">Factoría F5</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"></em></p>
 
@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/16348996/joan-record%c3%a0-pellicer"><img src="https://stackoverflow.com/users/flair/16348996.png" width="104" height="29" alt="profile for Joan Record&#224; Pellicer at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joan Record&#224; Pellicer at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 https://www.hackerrank.com/recorda
 
-Just a little more about me...
+Just a little more about me...  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"></h2>
 
 ```javascript
 const joan = {
@@ -25,7 +25,8 @@ const joan = {
                         mentor: "Taula periòdica Castellera"
                       },
  challenge: "I am studing at Factoría F5 Full Stack Development"
- funFact: "Coding is made of - 1% actually coding, 40% debugging, 40% googling errors, 19% trying copy/paste solutions from Stack Overflow"
+ funFact: "Coding is made of - 1% actually coding, 40% debugging,
+ 40% googling errors, 19% trying copy/paste solutions from Stack Overflow"
 }
 ```
 
