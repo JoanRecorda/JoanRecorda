@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/16348996/joan-record%c3%a0-pellicer"><img src="https://stackoverflow.com/users/flair/16348996.png" width="104" height="29" alt="profile for Joan Record&#224; Pellicer at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joan Record&#224; Pellicer at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 https://www.hackerrank.com/recorda
 
-Just a little more about me...  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></h2>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><h3> Just a little more about me...</h3>
 
 ```javascript
 const joan = {
