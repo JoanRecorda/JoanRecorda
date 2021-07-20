@@ -1,4 +1,4 @@
-<h2>Hola, I'm Joan Recordà Pellicer</2>
+<h2>Hola, I'm Joan Recordà Pellicer</h2>
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
 <p><em>Studing Full Stack Developer at <a href="http://www.factoriaf5.org/">Factoría F5</a></em></p>
 
