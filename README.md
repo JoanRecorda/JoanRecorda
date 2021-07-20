@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
 <p><em>Studing Full Stack Developer at <a href="http://www.factoriaf5.org/">Factoría F5</a></em></p>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Joan_Recorda?ref_src=twsrc%5Etfw)](https://twitter.com/intent/follow?screen_name=Joan_Recorda)
 [![Linkedin: Joan Recordà](https://img.shields.io/badge/-Joan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-record%C3%A0-pellicer-ab136563//)](https://www.linkedin.com/in/joan-record%C3%A0-pellicer-ab136563/)
 ![GitHub followers](https://img.shields.io/github/followers/JoanRecorda?label=Follow&style=social)
@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/16348996/joan-record%c3%a0-pellicer"><img src="https://stackoverflow.com/users/flair/16348996.png" width="104" height="29" alt="profile for Joan Record&#224; Pellicer at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joan Record&#224; Pellicer at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 https://www.hackerrank.com/recorda
 
-<h3> Just a little more about me...</h3>
+<h3>Just a little more about me...</h3>
 
 ```javascript
 const joan = {
