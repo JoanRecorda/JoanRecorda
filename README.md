@@ -2,7 +2,7 @@
 
 <h2>I'm Joan Recordà Pellicer
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
-<p><em>Studing Full Stack Developer at <a href="http://www.factoriaf5.org/">Factoría F5</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"></em></p>
+<p><em>Studing Full Stack Developer at <a href="http://www.factoriaf5.org/">Factoría F5</a></em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Joan_Recorda?ref_src=twsrc%5Etfw)](https://twitter.com/intent/follow?screen_name=Joan_Recorda)
 [![Linkedin: Joan Recordà](https://img.shields.io/badge/-Joan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-record%C3%A0-pellicer-ab136563//)](https://www.linkedin.com/in/joan-record%C3%A0-pellicer-ab136563/)
@@ -12,7 +12,7 @@
 <a href="https://stackoverflow.com/users/16348996/joan-record%c3%a0-pellicer"><img src="https://stackoverflow.com/users/flair/16348996.png" width="104" height="29" alt="profile for Joan Record&#224; Pellicer at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Joan Record&#224; Pellicer at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 https://www.hackerrank.com/recorda
 
-Just a little more about me...  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"></h2>
+Just a little more about me...  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"></h2>
 
 ```javascript
 const joan = {
@@ -34,7 +34,7 @@ const joan = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
-**🐱 My Github Data in my first code year** 
+**🐱 My Github Data in my first code year** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 > 🏆 12 Contributions in the Year 2021
  > 
