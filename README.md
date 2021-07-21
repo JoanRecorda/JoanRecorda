@@ -32,7 +32,7 @@ const joan = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My Github Data in my first code year** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
