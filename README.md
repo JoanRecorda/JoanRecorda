@@ -42,7 +42,7 @@ const joan = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 2 Private Repositories
 
