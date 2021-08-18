@@ -36,9 +36,7 @@ const joan = {
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 
-![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&hide=contribs,prs)
-
-![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&count_private=true)
+![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&count_private=true)
 
 
 
