@@ -2,8 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
 <p><em>Studing Full Stack Developer at <a href="http://www.factoriaf5.org/">Factoría F5</a></em></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&hide=contribs,prs)
-
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Joan_Recorda?ref_src=twsrc%5Etfw)](https://twitter.com/intent/follow?screen_name=Joan_Recorda)
@@ -36,6 +34,10 @@ const joan = {
 ---
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&hide=contribs,prs)
+
 
 **🐱 My Github Data in my first code year** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
