@@ -35,8 +35,7 @@ const joan = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
-<p style="align:center">![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&show_icons=true)</p>
+![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&show_icons=true)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@recorda/38d424de-270f-49c6-8bf2-204f4df631b8.png" /></a>
 
-<p style="align:center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@recorda/38d424de-270f-49c6-8bf2-204f4df631b8.png" /></a></p>
-
-<div style="align:center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@recorda/c9af2ac8-ccd0-4403-a50b-a3b37eaec5ec.png" /></a></div>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@recorda/c9af2ac8-ccd0-4403-a50b-a3b37eaec5ec.png" /></a>
