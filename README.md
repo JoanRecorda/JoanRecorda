@@ -2,6 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
 <p><em>Studing Full Stack Developer at <a href="http://www.factoriaf5.org/">Factoría F5</a></em></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&hide=contribs,prs)
+
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Joan_Recorda?ref_src=twsrc%5Etfw)](https://twitter.com/intent/follow?screen_name=Joan_Recorda)
 [![Linkedin: Joan Recordà](https://img.shields.io/badge/-Joan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-record%C3%A0-pellicer-ab136563//)](https://www.linkedin.com/in/joan-record%C3%A0-pellicer-ab136563/)
