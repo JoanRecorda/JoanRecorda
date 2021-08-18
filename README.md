@@ -38,6 +38,9 @@ const joan = {
 
 ![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&count_private=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&count_private=true)
+
+
 
 
 **🐱 My Github Data in my first code year** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
