@@ -35,12 +35,7 @@ const joan = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
-
-![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&count_private=true)
-
 ![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&show_icons=true)
-
-
 
 
 **🐱 My Github Data in my first code year** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
@@ -102,3 +97,4 @@ Mac                      7 hrs 14 mins       ███████████�
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 ```
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoanRecorda&repo=github-readme-stats)](https://github.com/JoanRecorda/github-readme-stats)
