@@ -38,7 +38,7 @@ const joan = {
 
 ![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&count_private=true)
+![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&show_icons=true)
 
 
 
