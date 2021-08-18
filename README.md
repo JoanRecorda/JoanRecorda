@@ -36,7 +36,10 @@ const joan = {
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&hide=contribs,prs)
+![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&hide=contribs,prs)
+
+![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&count_private=true)
+
 
 
 **🐱 My Github Data in my first code year** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
