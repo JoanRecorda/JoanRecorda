@@ -38,4 +38,4 @@ const joan = {
 ![Joan Recordà's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanRecorda&theme=nord&show_icons=true)
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@recorda/38d424de-270f-49c6-8bf2-204f4df631b8.png" /></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@recorda/c9af2ac8-ccd0-4403-a50b-a3b37eaec5ec.png" /></a>
+<a href="https://wakatime.com"><img width="50" height="auto"src="https://wakatime.com/share/@recorda/c9af2ac8-ccd0-4403-a50b-a3b37eaec5ec.png" /></a>
